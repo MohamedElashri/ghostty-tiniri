@@ -6,7 +6,7 @@ tirini theme for [Ghostty](https://github.com/ghostty-org/ghostty), based on the
 
 You can manually import the theme (light or dark) by following these steps:
 
-1. Copy the content of `dracula.conf` into your Ghostty configuration file
+1. Copy the content of `tinri_light.conf` into your Ghostty configuration file
    - Linux/macOS: `~/.config/ghostty/config`
 2. Reload Ghostty with `ctrl+shift+,` or restart the terminal 
 
