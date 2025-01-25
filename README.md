@@ -1,6 +1,6 @@
 # Tirini for Ghostty
 
-tirini theme for [Ghostty](https://github.com/ghostty-org/ghostty), based on the [Tiniri color scheme]([https://draculatheme.com](https://tiniri.vlad.studio/)).
+tirini theme for [Ghostty](https://github.com/ghostty-org/ghostty), based on the [Tirini Color Scheme](https://tiniri.vlad.studio/)
 
 ## Installation
 
